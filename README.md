@@ -4,7 +4,7 @@ Developed a comprehensive and user-friendly airline ticket booking website desig
 
 Technologies Used:
 
-Frontend: HTML, CSS, JavaScript, Bootstrap
-Backend: PHP
-Database: MYSQL
-Version Control: Git, GitHub
+1. Frontend: HTML, CSS, JavaScript, Bootstrap
+2. Backend: PHP
+3. Database: MYSQL
+4. Version Control: Git, GitHub
